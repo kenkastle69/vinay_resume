@@ -2,28 +2,28 @@ import { Icons } from "@/components/icons";
 import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
+  name: "Vinay N",
+  initials: "VN",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  location: "Banglore, Karnataka ",
+  locationLink: "https://maps.app.goo.gl/5iGYW5GaPtLd2Kqy5",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Idk why I'm here, Idk what I'm doing, all I know is that I love doing it.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
+    "At the end of 2022 i completed my Pu and begin my journey in Engineering, [I pursued a BE in Information Science and Engineering](/#education), [interned at uh... nowhere](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and [competed in 1 hackathon for fun](/#hackathons).",
   avatarUrl: "/me.png",
   skills: [
-    "React",
-    "Next.js",
-    "Typescript",
-    "Node.js",
-    "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
     "Java",
+    "C",
     "C++",
+    "R",
+    "Python",
+    "Javascript",
+    "Neural Networks",
+    "Eating",
+    "Problem solving",
+    "Existential Crisis",
+    "Crying",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
