@@ -32,33 +32,33 @@ export const DATA = {
     { href: "#", icon: PencilLine, label: "Notes" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "vinay.official24@gmail.com",
+    tel: "+91 9611954263",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/kenkastle69",
         icon: Icons.github,
 
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://dub.sh/dillion-linkedin",
+        url: "https://www.linkedin.com/in/vinay-n-a29187247/",
         icon: Icons.linkedin,
 
         navbar: true,
       },
       X: {
         name: "X",
-        url: "https://dub.sh/dillion-twitter",
+        url: "https://x.com/not_vinayy",
         icon: Icons.x,
 
         navbar: true,
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "https://www.youtube.com/@RickAstleyYTe",
         icon: Icons.youtube,
         navbar: true,
       },
