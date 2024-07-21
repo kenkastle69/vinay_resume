@@ -11,7 +11,7 @@ export const DATA = {
     "Idk why I'm here, Idk what I'm doing, all I know is that I love doing it.",
   summary:
     "At the end of 2022 i completed my Pu and begin my journey in Engineering, [I pursued a BE in Information Science and Engineering](/#education), [interned at uh... nowhere](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and [competed in 1 hackathon for fun](/#hackathons).",
-  avatarUrl: "/me.png",
+  avatarUrl: "/vinay.JPG",
   skills: [
     "Java",
     "C",
