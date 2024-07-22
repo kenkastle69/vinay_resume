@@ -145,8 +145,8 @@ export const DATA = {
       description:
         "Designed and implemented a robust password encryption and browser cookie storage system in Ruby on Rails. Leveraged the Yahoo finance API to develop the dividend.com equity screener",
     },
-  ],
-    -->
+  ],-->
+   
   education: [
     {
       school: "Buildspace",
